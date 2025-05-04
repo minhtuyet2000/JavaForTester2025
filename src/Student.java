@@ -9,6 +9,8 @@ public class Student {
         sayHello();
         Student name = new Student();
         name.sayHi();
+        Student name2 = new Student();
+        name2.sayHi();
         System.out.println(A(2, 3));
         System.out.println(B());
         for (int temp : C(10)) {
